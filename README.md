@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-green)](https://selenium.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 Un outil complet de scraping des données boursières de la BRVM (Bourse Régionale des Valeurs Mobilières) avec interface graphique moderne et fonctionnalités avancées.
 
