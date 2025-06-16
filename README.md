@@ -29,7 +29,7 @@ Ce projet permet d'extraire automatiquement les données historiques des actions
 ### Capture d'écran
 
 ```
-![alt text](image.png)
+![BRVM Scraper Interface](image.png)
 ```
 
 ## ✨ Fonctionnalités
